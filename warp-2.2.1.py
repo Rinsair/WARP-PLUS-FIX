@@ -9,7 +9,6 @@ import sys
 
 import requests
 
-
 # ID [偏好设置-常规-设备ID]
 referrer = "89a08a12-b7e9-482c-adaa-dc23603e95e0"
 
