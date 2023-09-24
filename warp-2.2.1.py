@@ -11,7 +11,7 @@ import requests
 
 
 # ID [偏好设置-常规-设备ID]
-referrer = ""
+referrer = "89a08a12-b7e9-482c-adaa-dc23603e95e0"
 
 # 是否在Actions中运行 | 0：否(不间断运行) 1：是(运行6h自动停止)
 actions = 0
